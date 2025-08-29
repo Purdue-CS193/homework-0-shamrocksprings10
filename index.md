@@ -1,7 +1,6 @@
-## Blah blah blah
-List
-* item 1
-* item 2
-* item 3
+# Ayush Sharma's First CS193 Homework
 
-end of page
+Favorite things about CS 193
+- Learning practical tools
+- Short lectures
+- Only once a week
